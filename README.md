@@ -1,0 +1,5 @@
+- pandas==2.2.2
+- matplotlib==3.9.0
+- pyspark==3.5.1
+- findspark==2.0.1
+- plotly==5.22.0
