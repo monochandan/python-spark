@@ -20,13 +20,13 @@
 
 <img width="494" alt="image" src="https://github.com/monochandan/python-spark/assets/29684226/e0900bef-4645-4187-9ca9-35df16735cbf">
       
-Frage 2: Which teams have been relegated in that 6 years? 
+#### Frage 2: Which teams have been relegated in that 6 years? 
 
   - For example: last 3 teams from 2010 who left out from the race
 
  <img width="386" alt="image" src="https://github.com/monochandan/python-spark/assets/29684226/eb9f2c3c-a279-4e16-b298-69be4e7e30fb">
 
-Frage 3: Does Octoberfest affect the performance of Bundesliga? 
+#### Frage 3: Does Octoberfest affect the performance of Bundesliga? 
 
   - By ration of goals per game:
 
@@ -41,11 +41,11 @@ Frage 3: Does Octoberfest affect the performance of Bundesliga?
      <img width="501" alt="image" src="https://github.com/monochandan/python-spark/assets/29684226/2395262d-dcd3-4b2f-93cb-bc7d98d683f5">
 
 
-Frage 4: Which season of Bundesliga was the most competitive in the last decade?
+#### Frage 4: Which season of Bundesliga was the most competitive in the last decade?
 
   <img width="499" alt="image" src="https://github.com/monochandan/python-spark/assets/29684226/db934b7c-67f6-4843-8f26-5fc62807a85b">
 
-Frage 5: What's the best month to watch Bundesliga?
+#### Frage 5: What's the best month to watch Bundesliga?
 
 
   
